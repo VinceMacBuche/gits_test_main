@@ -1,4 +1,6 @@
-gits_test_main
+Gits 2.5
 ==============
 
-gits_test_main
+Ici on va faire des test sur gits
+
+On aura plusieurs techniques très versionnées.
